@@ -126,5 +126,4 @@ Pour valider l'état de sécurité global du terminal, le dernier module est un 
 ---
 
 ## 8. Démonstration Vidéo de l'Application
-Une vidéo de démonstration illustrant le scénario complet d'exécution de l'application (inscription, authentification, opérations sur fichiers internes/externes, notes chiffrées dans Room+SQLCipher, et analyse de vulnérabilités cliquable avec remédiation simulée) est disponible :
-* **Vidéo de démonstration locale** : [demo.mp4](./demo.mp4) (à lire localement ou à télécharger à partir du dépôt).
+https://github.com/user-attachments/assets/e444e5e0-4f24-4ebc-92ca-79702bd183f1
